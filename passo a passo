@@ -1,0 +1,9 @@
+criar venv:
+    python3 -m venv fastvenv1
+
+ativar venv linux:
+    source fastvenv1/bin/activate
+
+----------------
+FAST API
+
